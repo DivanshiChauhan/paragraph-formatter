@@ -34,5 +34,4 @@ Paragraph: This is a sample paragraph to test center justification in a structur
 🔗 Contributing:
 Feel free to **fork** this repository and submit a **pull request** for improvements!
 
-📄 License: MIT License
-====================================
+
