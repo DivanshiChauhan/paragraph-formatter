@@ -1,4 +1,4 @@
-=====================================
+=
      📜 Center Justified Text Formatter
 =====================================
 🔹 A simple C++ program to format paragraphs with center justification.
@@ -15,14 +15,14 @@
 3️⃣ Type or paste your paragraph.
 4️⃣ View the formatted, center-justified output.
 
-=====================================
+=
 📌 Example Input:
 =====================================
 Max Width: 30
 Max Words: 20
 Paragraph: This is a sample paragraph to test center justification in a structured format.
 
-=====================================
+=
 📌 Example Output:
 =====================================
          This is a sample         
@@ -30,9 +30,9 @@ Paragraph: This is a sample paragraph to test center justification in a structur
    justification in a structured  
              format.             
 
-=====================================
+=
 🔗 Contributing:
 Feel free to **fork** this repository and submit a **pull request** for improvements!
 
 📄 License: MIT License
-=====================================
+====================================
